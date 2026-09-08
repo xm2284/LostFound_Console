@@ -1,0 +1,24 @@
+# ===== Visual Studio / 构建产物 =====
+.vs/
+Debug/
+Release/
+x64/
+ipch/
+*.aps
+*.log
+*.tlog/
+*.ilk
+*.pdb
+*.obj
+*.idb
+
+# ===== VS 用户配置 =====
+*.user
+*.suo
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# ===== 运行时数据文件 =====
+lostfound_console.dat
+*.dat.bak
